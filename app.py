@@ -1,6 +1,6 @@
 """
-Name: [AyeThiriPyoneNaing]
-Student ID: [8625teet]
+Name: AyeThiriPyoneNaing
+Student ID: 8625teet
 Module: 5FTC2067 Artificial Intelligence Principles
 Project: Dice Tic-Tac-Toe with Expectiminimax AI
 """
